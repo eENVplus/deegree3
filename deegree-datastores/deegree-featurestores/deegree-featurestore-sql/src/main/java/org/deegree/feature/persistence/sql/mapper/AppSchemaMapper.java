@@ -128,7 +128,7 @@ public class AppSchemaMapper {
 
     private final boolean useIntegerFids;
 
-    private final int MAX_COMPLEXITY_INDEX = 100;
+    private final int MAX_COMPLEXITY_INDEX = 1000;
 
     /**
      * Creates a new {@link AppSchemaMapper} instance for the given schema.
